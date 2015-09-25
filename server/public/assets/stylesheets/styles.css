@@ -1,0 +1,22 @@
+.colorDiv{
+    height:100px;
+    width:200px;
+    float:left;
+    /*outline:1px solid black;*/
+    position: relative;
+    /*top:50px;*/
+    margin-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+button{
+    /*float:left;*/
+}
+
+p {
+    background-color:white;
+    border-radius:5px;
+    display: inline-block;
+    padding: 5px 10px;¡
+}
